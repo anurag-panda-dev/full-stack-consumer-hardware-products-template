@@ -1,0 +1,7 @@
+PURPOSE:
+  Retail packaging: dieline, inserts, labels, unboxing.
+
+SHOULD CONTAIN:
+  - dieline/, inserts/, labels/
+
+SEE: docs/decisions/ADR-0001-Structure.md

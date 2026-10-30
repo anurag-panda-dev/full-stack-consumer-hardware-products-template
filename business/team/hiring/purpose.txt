@@ -1,0 +1,7 @@
+PURPOSE:
+  JDs (EE, ME, firmware, manufacturing), interview kits, scorecards.
+
+SHOULD CONTAIN:
+  - jd/, interview-kits/, scorecards/
+
+SEE: docs/decisions/ADR-0001-Structure.md

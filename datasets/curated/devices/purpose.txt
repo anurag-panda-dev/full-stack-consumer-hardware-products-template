@@ -1,0 +1,7 @@
+PURPOSE:
+  Device registry snapshot: models, variants, hardware revisions, MAC OUI ranges.
+
+SHOULD CONTAIN:
+  - models.json, variants.json, revisions.json
+
+SEE: docs/decisions/ADR-0001-Structure.md

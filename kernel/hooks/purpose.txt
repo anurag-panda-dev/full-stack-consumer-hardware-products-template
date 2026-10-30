@@ -1,0 +1,7 @@
+PURPOSE:
+  Shared React hooks (device state, offline, locale, entitlement).
+
+SHOULD CONTAIN:
+  - useDevice.ts, useOffline.ts, index.ts
+
+SEE: docs/decisions/ADR-0001-Structure.md

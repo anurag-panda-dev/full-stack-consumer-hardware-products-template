@@ -1,0 +1,7 @@
+PURPOSE:
+  API implementation — thin handlers; domain logic in services/.
+
+SHOULD CONTAIN:
+  - routes/, controllers/, services/, middleware/
+
+SEE: docs/decisions/ADR-0001-Structure.md

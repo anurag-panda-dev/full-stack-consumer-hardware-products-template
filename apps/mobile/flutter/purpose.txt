@@ -1,0 +1,7 @@
+PURPOSE:
+  Flutter implementation (active only if the Flutter RFC wins).
+
+SHOULD CONTAIN:
+  - pubspec.yaml, lib/, android/, ios/
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  Generated repo maps (tree, product index) refreshed by tooling — do not hand-edit.
+
+SHOULD CONTAIN:
+  - tree.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  Primary English copy (or replace with your primary locale).
+
+SHOULD CONTAIN:
+  - <slug>.md mirrors of library content
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  App Router pages: onboarding, device, account, support. Pages only — no business logic.
+
+SHOULD CONTAIN:
+  - <route>/page.tsx, layout.tsx, loading.tsx
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  Campaign folders: brief, assets, copy, tracking, results.
+
+SHOULD CONTAIN:
+  - <campaign>/{brief.md, assets/, results.md}
+
+SEE: docs/decisions/ADR-0001-Structure.md

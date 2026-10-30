@@ -1,0 +1,7 @@
+PURPOSE:
+  One folder per device PRODUCT LINE. Specs, variants, and release records live here; ARTIFACTS live in the discipline folders (mechanical/, electronics/, firmware/...) — product.md links them.
+
+SHOULD CONTAIN:
+  - <line>/, example-device/ (replace with your own)
+
+SEE: docs/decisions/ADR-0001-Structure.md

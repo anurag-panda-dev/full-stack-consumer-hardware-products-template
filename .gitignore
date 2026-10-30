@@ -1,0 +1,49 @@
+# Dependencies / builds
+node_modules/
+dist/
+build/
+.next/
+.turbo/
+coverage/
+
+# Env / secrets
+.env
+.env.local
+.env.*.local
+
+# Scratch
+temp/
+sandbox/scratch/
+
+# CAD / EDA backups and autosaves (sources are committed; backups are not)
+*.bak
+*_autosave-*
+*-backups/
+*.kicad_prl
+~$*
+
+# Firmware build artifacts (release binaries live in products/<line>/release/)
+*.elf
+*.map
+*.o
+*.d
+
+# Editors / OS / notes
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.obsidian/
+*.swp
+
+# Logs
+*.log
+npm-debug.log*
+
+# Tooling caches
+.eslintcache
+*.tsbuildinfo
+
+# Data (large raw sources stay local or in Git LFS)
+datasets/raw/*
+!datasets/raw/.gitkeep

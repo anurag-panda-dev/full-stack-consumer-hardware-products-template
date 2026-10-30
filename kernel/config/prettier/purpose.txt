@@ -1,0 +1,7 @@
+PURPOSE:
+  Shared Prettier config.
+
+SHOULD CONTAIN:
+  - .prettierrc.js
+
+SEE: docs/decisions/ADR-0001-Structure.md

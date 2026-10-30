@@ -1,0 +1,7 @@
+PURPOSE:
+  Research & experiments that must not destabilize shipping designs. Document failures too.
+
+SHOULD CONTAIN:
+  - materials/, battery/, processes/, NOTES.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

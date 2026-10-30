@@ -1,0 +1,7 @@
+PURPOSE:
+  Cross-app quality gates (feature/unit tests live with their code).
+
+SHOULD CONTAIN:
+  - e2e/, contract/, visual/
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  Scratch: script experiments, render tests, BOM what-ifs.
+
+SHOULD CONTAIN:
+  - <topic>/
+
+SEE: docs/decisions/ADR-0001-Structure.md

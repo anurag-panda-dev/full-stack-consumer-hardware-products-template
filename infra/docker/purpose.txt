@@ -1,0 +1,7 @@
+PURPOSE:
+  Dockerfiles for self-hosted pieces (platform workers, telemetry ingest) when serverless stops fitting.
+
+SHOULD CONTAIN:
+  - <service>/Dockerfile, compose.yaml — created on demand
+
+SEE: docs/decisions/ADR-0001-Structure.md

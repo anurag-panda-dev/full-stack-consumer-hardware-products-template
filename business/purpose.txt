@@ -1,0 +1,7 @@
+PURPOSE:
+  Business & operations — never imported by engineering files.
+
+SHOULD CONTAIN:
+  - product/, market-research/, marketing/, pricing/, monetization/, finance/, metrics/, team/, support/
+
+SEE: docs/decisions/ADR-0001-Structure.md

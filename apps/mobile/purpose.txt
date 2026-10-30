@@ -1,0 +1,7 @@
+PURPOSE:
+  Companion mobile app — STACK UNDECIDED (React Native <-> Flutter) via RFC; stack-neutral like platform/api.
+
+SHOULD CONTAIN:
+  - DECISION.md, shared/, react-native/, flutter/, android/, ios/
+
+SEE: docs/decisions/ADR-0001-Structure.md

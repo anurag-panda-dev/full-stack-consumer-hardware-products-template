@@ -1,0 +1,7 @@
+PURPOSE:
+  Design-for-manufacture reviews with the CM/ODM: feedback, changes, sign-offs.
+
+SHOULD CONTAIN:
+  - reviews/, changes/, signoffs/
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  Rollout channels: beta/stable, percentage gates, per-region gates, kill-switch.
+
+SHOULD CONTAIN:
+  - channels.yaml, policies.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

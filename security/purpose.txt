@@ -1,0 +1,7 @@
+PURPOSE:
+  Security across all layers: device threat model, firmware signing, OTA integrity, companion-app and cloud security, vulnerability disclosure.
+
+SHOULD CONTAIN:
+  - THREAT-MODEL.md, SECURITY.md, key-management.md, audits/, disclosure-policy.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  Privacy policy + data-retention matrix for device telemetry and app data (DPDP/GDPR-facing).
+
+SHOULD CONTAIN:
+  - privacy-policy.md, data-retention-matrix.md, consent-flows.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

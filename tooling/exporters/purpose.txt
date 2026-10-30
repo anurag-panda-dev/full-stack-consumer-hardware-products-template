@@ -1,0 +1,7 @@
+PURPOSE:
+  CAD/KiCad export pipelines: STEP/STL/PDF/Gerber/BOM generation — outputs are generated, not hand-edited.
+
+SHOULD CONTAIN:
+  - cad-export.*, kicad-export.*, README.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  Project knowledge base. Index in README.md. Landed decisions -> decisions/; pending -> /rfcs.
+
+SHOULD CONTAIN:
+  - README.md, architecture/, product/, strategy/, decisions/, legal/
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  Engineering-adjacent legal only (privacy matters here — companion apps collect data). Corporate documents (equity, HR, signed contracts, IP filings) live in a private company-ops repo — never here.
+
+SHOULD CONTAIN:
+  - compliance/, ip/, licenses/, privacy/, templates/
+
+SEE: docs/decisions/ADR-0001-Structure.md

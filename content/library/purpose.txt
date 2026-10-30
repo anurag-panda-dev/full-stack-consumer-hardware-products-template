@@ -1,0 +1,7 @@
+PURPOSE:
+  Published content by type.
+
+SHOULD CONTAIN:
+  - guides/, troubleshooting/, manuals/, faqs/
+
+SEE: docs/decisions/ADR-0001-Structure.md

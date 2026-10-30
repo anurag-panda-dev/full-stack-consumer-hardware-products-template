@@ -1,0 +1,7 @@
+PURPOSE:
+  Written copy for user manuals (packaging/inserts holds the print-ready layout).
+
+SHOULD CONTAIN:
+  - <line>-manual.md, quick-start.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

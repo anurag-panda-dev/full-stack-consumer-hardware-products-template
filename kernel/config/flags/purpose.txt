@@ -1,0 +1,7 @@
+PURPOSE:
+  Environment-driven feature flags for staged rollouts.
+
+SHOULD CONTAIN:
+  - flags.ts, flags.schema.ts
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  Device cloud + backend. NOTHING above platform/ imports it — communication via platform/api/openapi + kernel/contracts.
+
+SHOULD CONTAIN:
+  - api/, ota/, telemetry/, notifications/, payments/, jobs/, identity/, database/, observability/
+
+SEE: docs/decisions/ADR-0001-Structure.md

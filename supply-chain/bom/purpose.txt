@@ -1,0 +1,7 @@
+PURPOSE:
+  Master BOM: MPN, alternates, lifecycle (EOL watch), lead times — machine-checked for completeness.
+
+SHOULD CONTAIN:
+  - master-bom.csv, alternates/, lifecycle.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

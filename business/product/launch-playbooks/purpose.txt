@@ -1,0 +1,7 @@
+PURPOSE:
+  Launch readiness: rollout waves, channel plan, go/no-go, recall/rollback plan.
+
+SHOULD CONTAIN:
+  - <launch>/{checklist.md, rollout.md, go-no-go.md}
+
+SEE: docs/decisions/ADR-0001-Structure.md

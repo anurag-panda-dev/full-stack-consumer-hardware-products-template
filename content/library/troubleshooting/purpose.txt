@@ -1,0 +1,7 @@
+PURPOSE:
+  Troubleshooting trees — feeds support/ and in-app help.
+
+SHOULD CONTAIN:
+  - <symptom>.md, decision-trees/
+
+SEE: docs/decisions/ADR-0001-Structure.md

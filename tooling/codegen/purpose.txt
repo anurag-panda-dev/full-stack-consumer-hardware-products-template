@@ -1,0 +1,7 @@
+PURPOSE:
+  Generators: design tokens, typed API client from openapi, protocol types from kernel/contracts.
+
+SHOULD CONTAIN:
+  - generate-tokens.mjs, generate-api-client.mjs, generate-protocol.mjs
+
+SEE: docs/decisions/ADR-0001-Structure.md

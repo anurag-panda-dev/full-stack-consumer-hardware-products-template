@@ -1,0 +1,7 @@
+PURPOSE:
+  Maintenance scripts: BOM lint, folder/purpose.txt checks, release bundling.
+
+SHOULD CONTAIN:
+  - *.mjs, *.ps1, README.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

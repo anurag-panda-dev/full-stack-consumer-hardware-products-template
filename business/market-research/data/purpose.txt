@@ -1,0 +1,7 @@
+PURPOSE:
+  Sales/analytics insight reports — interpretation, not raw exports.
+
+SHOULD CONTAIN:
+  - reports/<YYYY-MM>-<topic>.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  Locale kernel — the product's primary language is substrate, not a feature.
+
+SHOULD CONTAIN:
+  - locales/, formatting/
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  Rollback triggers and procedures (bad release detection -> auto-halt -> revert).
+
+SHOULD CONTAIN:
+  - triggers.md, runbook.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

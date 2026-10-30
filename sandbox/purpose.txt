@@ -1,0 +1,7 @@
+PURPOSE:
+  Prototypes & throwaway work — never shipped, never imported by production folders.
+
+SHOULD CONTAIN:
+  - prototypes/, playground/
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  Single source of truth for data shapes (Zod): device, firmware-release, telemetry, ota-job, account... Consumed by apps and platform/api (also drives firmware message schemas).
+
+SHOULD CONTAIN:
+  - *.schema.ts, index.ts
+
+SEE: docs/decisions/ADR-0001-Structure.md

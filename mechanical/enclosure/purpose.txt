@@ -1,0 +1,7 @@
+PURPOSE:
+  Housing internals: ribs, snap-fits, gaskets (IP rating), thermal paths, tolerance stack-ups.
+
+SHOULD CONTAIN:
+  - enclosure/, seals/, stack-up.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

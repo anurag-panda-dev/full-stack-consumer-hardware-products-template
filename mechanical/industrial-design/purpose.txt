@@ -1,0 +1,7 @@
+PURPOSE:
+  Color-material-finish, ergonomics, form exploration, CMF spec per variant.
+
+SHOULD CONTAIN:
+  - cmf/, sketches/, renders/
+
+SEE: docs/decisions/ADR-0001-Structure.md

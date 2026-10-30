@@ -1,0 +1,7 @@
+PURPOSE:
+  Manufacturing process experiments: 3D-print tooling, alternate joins, tolerancing trials.
+
+SHOULD CONTAIN:
+  - <process>/
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,15 @@
+PURPOSE:
+  Full-stack consumer-hardware template — monorepo for connected-hardware products:
+  industrial design, electronics, firmware, PLUS companion apps and the device cloud.
+  Hardware lives in discipline folders (mechanical/, electronics/, firmware/...), software in
+  apps/ + platform/ + kernel/; products/ holds per-line specs pointing into both.
+  Empty scaffolding is forbidden: folders fill only as real work arrives.
+
+SHOULD CONTAIN:
+  - README.md, AGENTS.md, PACKAGE.md, CONTRIBUTING.md, CHANGELOG.md
+  - HARDWARE: products/, mechanical/, electronics/, firmware/, certification/,
+  -           manufacturing/, supply-chain/, validation/, packaging/, test-tools/
+  - SOFTWARE: apps/, crosscutting/, platform/, kernel/, tests/, datasets/, content/
+  - SHARED:   docs/, rfcs/, business/, legal/, labs/, sandbox/, infra/, tooling/, security/
+
+SEE: docs/decisions/ADR-0001-Structure.md

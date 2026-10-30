@@ -1,0 +1,7 @@
+PURPOSE:
+  License inventory: firmware opensource licenses (GPL caution), CAD libraries, fonts, images.
+
+SHOULD CONTAIN:
+  - <asset>.license.md, gpl-audit.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

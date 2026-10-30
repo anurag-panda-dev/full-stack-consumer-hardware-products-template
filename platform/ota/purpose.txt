@@ -1,0 +1,7 @@
+PURPOSE:
+  OTA release service: artifact storage, channels (beta/stable), staged rollout %, rollback, job tracking per device.
+
+SHOULD CONTAIN:
+  - releases/, channels/, rollback/, jobs/
+
+SEE: docs/decisions/ADR-0001-Structure.md

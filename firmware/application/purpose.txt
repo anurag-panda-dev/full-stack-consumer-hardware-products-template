@@ -1,0 +1,7 @@
+PURPOSE:
+  Application firmware: state machines, power management, BLE provisioning flow.
+
+SHOULD CONTAIN:
+  - app/, config/, power-profiles/
+
+SEE: docs/decisions/ADR-0001-Structure.md

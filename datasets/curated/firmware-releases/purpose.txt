@@ -1,0 +1,7 @@
+PURPOSE:
+  Release ledger: versions, channels, rollout %, success/failure rates, rollback events.
+
+SHOULD CONTAIN:
+  - releases.json, rollout-history.json
+
+SEE: docs/decisions/ADR-0001-Structure.md

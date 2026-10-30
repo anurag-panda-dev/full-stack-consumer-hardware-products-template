@@ -1,0 +1,7 @@
+PURPOSE:
+  Firmware artifacts + manifests (signed), version history, compatibility matrix (min app/hw versions).
+
+SHOULD CONTAIN:
+  - <version>/, manifest-schema.md, history.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

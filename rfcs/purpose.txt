@@ -1,0 +1,7 @@
+PURPOSE:
+  Pending engineering proposals before they land as ADRs (e.g., MCU platform choice, enclosure material, cloud provider).
+
+SHOULD CONTAIN:
+  - NNNN-title.md — one per proposal
+
+SEE: docs/decisions/ADR-0001-Structure.md

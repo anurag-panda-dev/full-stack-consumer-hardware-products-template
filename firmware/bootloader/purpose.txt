@@ -1,0 +1,7 @@
+PURPOSE:
+  Secure boot chain, flashing procedure, signed-image verification.
+
+SHOULD CONTAIN:
+  - bootloader/, signing.md, flash.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

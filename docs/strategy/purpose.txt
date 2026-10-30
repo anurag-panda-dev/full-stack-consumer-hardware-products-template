@@ -1,0 +1,7 @@
+PURPOSE:
+  Strategy docs: brand, domain, UI/UX (if any), GTM, monetization, competitive, roadmap, metrics.
+
+SHOULD CONTAIN:
+  - strategy documents
+
+SEE: docs/decisions/ADR-0001-Structure.md

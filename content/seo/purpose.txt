@@ -1,0 +1,7 @@
+PURPOSE:
+  SEO assets for the companion site: meta, structured data, sitemap sources.
+
+SHOULD CONTAIN:
+  - meta/, structured-data/
+
+SEE: docs/decisions/ADR-0001-Structure.md

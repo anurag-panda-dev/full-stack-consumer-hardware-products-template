@@ -1,0 +1,7 @@
+PURPOSE:
+  Cloud project configs: hosting for apps + platform, DNS/CDN/WAF.
+
+SHOULD CONTAIN:
+  - vercel/, cloudflare/, env-matrix.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

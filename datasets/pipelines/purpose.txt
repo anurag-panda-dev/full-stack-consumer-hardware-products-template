@@ -1,0 +1,7 @@
+PURPOSE:
+  ETL: fetch -> normalize -> validate -> land in curated/.
+
+SHOULD CONTAIN:
+  - <source>/{fetch,parse,run}.mjs, README.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  FAQ collections — also feeds in-app help.
+
+SHOULD CONTAIN:
+  - <slug>.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

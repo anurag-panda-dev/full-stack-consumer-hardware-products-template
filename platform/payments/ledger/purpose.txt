@@ -1,0 +1,7 @@
+PURPOSE:
+  Transactions, refunds, reconciliation, settlements — append-only mindset.
+
+SHOULD CONTAIN:
+  - models/, reconcile/, reports/
+
+SEE: docs/decisions/ADR-0001-Structure.md

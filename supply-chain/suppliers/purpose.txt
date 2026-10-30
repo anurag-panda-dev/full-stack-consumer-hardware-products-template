@@ -1,0 +1,7 @@
+PURPOSE:
+  Approved supplier list: contacts, MOQ, lead time, qualification status, audits.
+
+SHOULD CONTAIN:
+  - asl.md, <supplier>.md, audits/
+
+SEE: docs/decisions/ADR-0001-Structure.md

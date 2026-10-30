@@ -1,0 +1,7 @@
+PURPOSE:
+  Team & hiring: org, roles, pipeline, onboarding.
+
+SHOULD CONTAIN:
+  - org/, hiring/, runbooks/
+
+SEE: docs/decisions/ADR-0001-Structure.md

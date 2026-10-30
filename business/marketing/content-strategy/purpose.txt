@@ -1,0 +1,7 @@
+PURPOSE:
+  Editorial calendar, messaging map, spec-sheet copy coordination.
+
+SHOULD CONTAIN:
+  - editorial-calendar.md, messaging-map.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

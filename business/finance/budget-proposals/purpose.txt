@@ -1,0 +1,7 @@
+PURPOSE:
+  Departmental budget requests: tooling NRE, certification labs, initial inventory.
+
+SHOULD CONTAIN:
+  - <dept>-<YYYY>.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

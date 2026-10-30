@@ -1,0 +1,7 @@
+PURPOSE:
+  Onboarding for hardware roles (lab access, ESD, tooling), training plans.
+
+SHOULD CONTAIN:
+  - onboarding/<role>.md, training.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

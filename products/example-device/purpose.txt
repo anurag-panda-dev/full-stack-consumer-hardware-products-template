@@ -1,0 +1,10 @@
+PURPOSE:
+  EXAMPLE product line showing the pattern — delete and replace with your real line.
+
+SHOULD CONTAIN:
+  - product.md — overview + links into discipline folders
+  - requirements/ — PRD, user stories, constraints (cost, battery, IP rating)
+  - variants/ — SKU matrix (colors, regions, bundle)
+  - release/ — release checklist, ECO/revision records, firmware+PCB+tooling versions per release
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  Market sizing (TAM/SAM/SOM), retail/channel data, category trends.
+
+SHOULD CONTAIN:
+  - tam-sam-som.md, channels/, trends.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

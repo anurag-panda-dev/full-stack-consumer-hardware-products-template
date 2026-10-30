@@ -1,0 +1,7 @@
+PURPOSE:
+  How-to guides (setup, features) per device line.
+
+SHOULD CONTAIN:
+  - <slug>.md + frontmatter (product, hw_rev, fw_min)
+
+SEE: docs/decisions/ADR-0001-Structure.md

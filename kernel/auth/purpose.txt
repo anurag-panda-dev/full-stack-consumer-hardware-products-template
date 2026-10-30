@@ -1,0 +1,7 @@
+PURPOSE:
+  Session model: account (linked to device ownership), anonymous-first where possible.
+
+SHOULD CONTAIN:
+  - session.ts, permissions.ts, guards/
+
+SEE: docs/decisions/ADR-0001-Structure.md

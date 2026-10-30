@@ -1,0 +1,7 @@
+PURPOSE:
+  Authoritative OpenAPI spec; contract tests in tests/contract pin it.
+
+SHOULD CONTAIN:
+  - openapi.yaml, lint config
+
+SEE: docs/decisions/ADR-0001-Structure.md

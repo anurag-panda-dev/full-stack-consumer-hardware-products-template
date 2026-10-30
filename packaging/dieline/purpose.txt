@@ -1,0 +1,7 @@
+PURPOSE:
+  Print-ready dielines and structural CAD for the box.
+
+SHOULD CONTAIN:
+  - <rev>.pdf, structural/
+
+SEE: docs/decisions/ADR-0001-Structure.md

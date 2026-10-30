@@ -1,0 +1,7 @@
+PURPOSE:
+  Sourcing and cost: BOM, suppliers, costed BOM per SKU.
+
+SHOULD CONTAIN:
+  - bom/, suppliers/, costing/
+
+SEE: docs/decisions/ADR-0001-Structure.md

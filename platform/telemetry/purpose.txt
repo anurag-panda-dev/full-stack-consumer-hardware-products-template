@@ -1,0 +1,7 @@
+PURPOSE:
+  Device telemetry ingestion: ingest endpoints, normalization, retention, anomaly flags.
+
+SHOULD CONTAIN:
+  - ingest/, normalize/, retention.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

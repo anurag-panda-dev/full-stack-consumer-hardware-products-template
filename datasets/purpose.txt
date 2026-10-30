@@ -1,0 +1,7 @@
+PURPOSE:
+  Data as a product: raw -> curated -> validated -> verified. CI rejects curated files without a schema.
+
+SHOULD CONTAIN:
+  - raw/, curated/, schemas/, sources/, pipelines/
+
+SEE: docs/decisions/ADR-0001-Structure.md

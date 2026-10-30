@@ -1,0 +1,7 @@
+PURPOSE:
+  Design system: tokens (from brand assets) + primitives.
+
+SHOULD CONTAIN:
+  - tokens/, components/, README.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

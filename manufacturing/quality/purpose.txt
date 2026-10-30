@@ -1,0 +1,7 @@
+PURPOSE:
+  Incoming/in-process/outgoing quality: AQL, checklists, NCR (non-conformance) records.
+
+SHOULD CONTAIN:
+  - iqc/, oqc/, checklists/, ncr/
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  React Native implementation (active only if the RN RFC wins) — owns android/ + ios/ hosts.
+
+SHOULD CONTAIN:
+  - package.json, src/, android/, ios/
+
+SEE: docs/decisions/ADR-0001-Structure.md

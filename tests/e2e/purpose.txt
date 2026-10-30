@@ -1,0 +1,7 @@
+PURPOSE:
+  Playwright journeys: unbox -> provision -> control device -> OTA update.
+
+SHOULD CONTAIN:
+  - *.spec.ts, fixtures/, playwright.config.ts
+
+SEE: docs/decisions/ADR-0001-Structure.md

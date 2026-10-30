@@ -1,0 +1,7 @@
+PURPOSE:
+  Hardware verification & reliability — the physical analog of software tests. Gate before certification and MP.
+
+SHOULD CONTAIN:
+  - reliability/, thermal/, battery/, drop-vibration/, emc-prescan/
+
+SEE: docs/decisions/ADR-0001-Structure.md

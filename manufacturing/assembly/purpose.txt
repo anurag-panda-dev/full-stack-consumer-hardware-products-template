@@ -1,0 +1,7 @@
+PURPOSE:
+  Assembly work instructions, process flow, torque/adhesive specs.
+
+SHOULD CONTAIN:
+  - work-instructions/, process-flow.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

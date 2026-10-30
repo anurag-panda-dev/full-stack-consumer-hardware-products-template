@@ -1,0 +1,7 @@
+PURPOSE:
+  Power tree, battery/charging (PMIC, fuel gauge), efficiency and thermal analysis.
+
+SHOULD CONTAIN:
+  - power-tree.md, charging/, battery-pack/
+
+SEE: docs/decisions/ADR-0001-Structure.md

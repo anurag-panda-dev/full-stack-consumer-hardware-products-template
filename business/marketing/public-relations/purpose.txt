@@ -1,0 +1,7 @@
+PURPOSE:
+  Media kits, press releases, influencer/teardown seeding, crisis trees.
+
+SHOULD CONTAIN:
+  - media-kit/, press-releases/, crisis-tree.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  SKU/bundle price ladders: MSRP, MAP, channel pricing per region.
+
+SHOULD CONTAIN:
+  - <sku>.tier.md, bundles.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

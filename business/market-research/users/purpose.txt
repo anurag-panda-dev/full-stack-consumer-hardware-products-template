@@ -1,0 +1,7 @@
+PURPOSE:
+  User research: personas, interviews, usability of physical product (unboxing, ergonomics).
+
+SHOULD CONTAIN:
+  - personas/, interviews/, studies/
+
+SEE: docs/decisions/ADR-0001-Structure.md

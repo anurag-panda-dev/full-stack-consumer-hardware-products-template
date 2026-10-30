@@ -1,0 +1,7 @@
+PURPOSE:
+  Bring-up/prototype boards used before the production PCB spins.
+
+SHOULD CONTAIN:
+  - <board>/, readme per board
+
+SEE: docs/decisions/ADR-0001-Structure.md

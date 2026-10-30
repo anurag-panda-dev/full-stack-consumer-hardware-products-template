@@ -1,0 +1,7 @@
+PURPOSE:
+  Post-launch support: RMA flows, warranty policy execution, escalated tickets.
+
+SHOULD CONTAIN:
+  - rma/, warranty-policy.md, escalation.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

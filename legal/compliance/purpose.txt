@@ -1,0 +1,7 @@
+PURPOSE:
+  Regulatory compliance coordination (with certification/) + product-liability and consumer-law notes.
+
+SHOULD CONTAIN:
+  - consumer-law.md, liability.md, e-waste.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

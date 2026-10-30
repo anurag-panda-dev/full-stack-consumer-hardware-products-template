@@ -1,0 +1,7 @@
+PURPOSE:
+  Zod/JSON Schema for EVERY curated dataset — validated in CI (data-validation.yml).
+
+SHOULD CONTAIN:
+  - <dataset>.schema.ts, validate.mjs
+
+SEE: docs/decisions/ADR-0001-Structure.md

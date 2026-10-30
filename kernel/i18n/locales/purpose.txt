@@ -1,0 +1,7 @@
+PURPOSE:
+  Message catalogs — one JSON per locale; CI checks for missing keys.
+
+SHOULD CONTAIN:
+  - en.json, <locale>.json
+
+SEE: docs/decisions/ADR-0001-Structure.md

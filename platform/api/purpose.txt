@@ -1,0 +1,7 @@
+PURPOSE:
+  REST API — STACK UNDECIDED (Express <-> FastAPI); contract-first from kernel/contracts. src/ = Express, app/ = FastAPI.
+
+SHOULD CONTAIN:
+  - DECISION.md, openapi/, src/ (or app/), tests/
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  Seed scripts: device models, firmware channel defaults, regions.
+
+SHOULD CONTAIN:
+  - device-models.seed.ts
+
+SEE: docs/decisions/ADR-0001-Structure.md

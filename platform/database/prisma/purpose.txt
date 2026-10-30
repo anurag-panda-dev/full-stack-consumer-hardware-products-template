@@ -1,0 +1,7 @@
+PURPOSE:
+  Prisma schema + migrations (type-safe, parameterized queries).
+
+SHOULD CONTAIN:
+  - schema.prisma, migrations/
+
+SEE: docs/decisions/ADR-0001-Structure.md

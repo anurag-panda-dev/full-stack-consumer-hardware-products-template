@@ -1,0 +1,7 @@
+PURPOSE:
+  Over-the-air update agent: image format, rollback, A/B slots, version policy.
+
+SHOULD CONTAIN:
+  - agent/, image-format.md, rollback-policy.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  Vendor/SaaS inventory + security reviews for tools used by the team.
+
+SHOULD CONTAIN:
+  - software-inventory.md, vendor-security-reviews.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

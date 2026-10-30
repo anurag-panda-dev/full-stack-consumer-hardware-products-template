@@ -1,0 +1,7 @@
+PURPOSE:
+  Structured intake: bug, manufacturing/quality defect, certification blocker, feature request.
+
+SHOULD CONTAIN:
+  - bug.md, defect.md, certification.md, feature.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

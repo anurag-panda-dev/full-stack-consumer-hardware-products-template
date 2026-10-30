@@ -1,0 +1,7 @@
+PURPOSE:
+  Accounts, sessions, device ownership/claims (transfer, gift, second owner).
+
+SHOULD CONTAIN:
+  - accounts/, sessions/, device-claims/
+
+SEE: docs/decisions/ADR-0001-Structure.md

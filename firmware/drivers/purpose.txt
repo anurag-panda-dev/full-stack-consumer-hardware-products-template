@@ -1,0 +1,7 @@
+PURPOSE:
+  Peripheral drivers (sensors, display, radio, PMIC) — hardware abstraction layer.
+
+SHOULD CONTAIN:
+  - hal/, <peripheral>/
+
+SEE: docs/decisions/ADR-0001-Structure.md

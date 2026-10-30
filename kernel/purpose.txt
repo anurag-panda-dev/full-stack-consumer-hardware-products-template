@@ -1,0 +1,7 @@
+PURPOSE:
+  Reusable software core shared by every app — "what every product IS". Nothing imports platform/ directly.
+
+SHOULD CONTAIN:
+  - design-system/, contracts/, auth/, offline/, i18n/, entitlements/, telemetry/, hooks/, utils/, config/
+
+SEE: docs/decisions/ADR-0001-Structure.md

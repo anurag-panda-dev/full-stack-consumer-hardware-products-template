@@ -1,0 +1,7 @@
+PURPOSE:
+  Board Support Packages — one folder per PCB revision/board.
+
+SHOULD CONTAIN:
+  - <board>/ (pinmap, clock, peripheral config)
+
+SEE: docs/decisions/ADR-0001-Structure.md

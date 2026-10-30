@@ -1,0 +1,9 @@
+PURPOSE:
+  Physical design: CAD models, enclosure, industrial design — the look, feel, and fit.
+
+SHOULD CONTAIN:
+  - cad/ — STEP/STL/native CAD + drawings
+  - industrial-design/ — CMF (color/material/finish), sketches, renders
+  - enclosure/ — housing, seals, mounts, tolerance stack-ups
+
+SEE: docs/decisions/ADR-0001-Structure.md

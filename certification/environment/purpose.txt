@@ -1,0 +1,7 @@
+PURPOSE:
+  RoHS/REACH declarations, e-waste (EPR), sustainability evidence.
+
+SHOULD CONTAIN:
+  - declarations/, reports/
+
+SEE: docs/decisions/ADR-0001-Structure.md

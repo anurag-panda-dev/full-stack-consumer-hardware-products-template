@@ -1,0 +1,7 @@
+PURPOSE:
+  One adapter per gateway behind a common interface (Razorpay first).
+
+SHOULD CONTAIN:
+  - razorpay/, adapter-interface.ts
+
+SEE: docs/decisions/ADR-0001-Structure.md

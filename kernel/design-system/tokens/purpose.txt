@@ -1,0 +1,7 @@
+PURPOSE:
+  Generated design tokens (colors, spacing, type scale, radii, motion). GENERATED — do not hand-edit.
+
+SHOULD CONTAIN:
+  - tokens.json, tailwind.preset.js
+
+SEE: docs/decisions/ADR-0001-Structure.md

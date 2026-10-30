@@ -1,0 +1,7 @@
+PURPOSE:
+  Templates used by contributors: contractor agreement pointer, NDA pointer (masters live in company-ops).
+
+SHOULD CONTAIN:
+  - pointers/, contributor-terms.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

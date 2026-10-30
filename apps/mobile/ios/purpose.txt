@@ -1,0 +1,7 @@
+PURPOSE:
+  Standalone native iOS shell — only if ever required by an RFC.
+
+SHOULD CONTAIN:
+  - Nothing until justified
+
+SEE: docs/decisions/ADR-0001-Structure.md

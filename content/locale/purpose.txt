@@ -1,0 +1,7 @@
+PURPOSE:
+  Primary locale folder(s) — add one per shipped locale (en, bn, hi, ...).
+
+SHOULD CONTAIN:
+  - en/, <locale>/
+
+SEE: docs/decisions/ADR-0001-Structure.md

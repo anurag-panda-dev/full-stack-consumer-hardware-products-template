@@ -1,0 +1,7 @@
+PURPOSE:
+  Repo-wide tooling: maintenance scripts, CAD/KiCad exporters, codegen from contracts.
+
+SHOULD CONTAIN:
+  - scripts/, exporters/, codegen/
+
+SEE: docs/decisions/ADR-0001-Structure.md

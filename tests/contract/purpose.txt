@@ -1,0 +1,7 @@
+PURPOSE:
+  Consumer-driven contract tests pinning apps against platform/api/openapi.
+
+SHOULD CONTAIN:
+  - *.contract.ts, snapshots/
+
+SEE: docs/decisions/ADR-0001-Structure.md

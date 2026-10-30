@@ -1,0 +1,7 @@
+PURPOSE:
+  Material trials: polymers, coatings, finishes, recycled content — test coupons and results.
+
+SHOULD CONTAIN:
+  - <material>/, results.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

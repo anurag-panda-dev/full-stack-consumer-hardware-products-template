@@ -1,0 +1,7 @@
+PURPOSE:
+  Infrastructure-as-code — created as adopted (no premature Docker).
+
+SHOULD CONTAIN:
+  - cloud/, docker/, monitoring/
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  KPIs/OKRs: NPI milestones, yield, RMA rate, CAC/LTV, schedule adherence.
+
+SHOULD CONTAIN:
+  - okrs/, reviews/<YYYY-MM>.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

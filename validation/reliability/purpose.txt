@@ -1,0 +1,7 @@
+PURPOSE:
+  Lifecycle tests: button life, port cycles, humidity, dust, ingress (IP) verification.
+
+SHOULD CONTAIN:
+  - plans/, reports/
+
+SEE: docs/decisions/ADR-0001-Structure.md

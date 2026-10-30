@@ -1,0 +1,7 @@
+PURPOSE:
+  Repository automation and governance.
+
+SHOULD CONTAIN:
+  - workflows/, ISSUE_TEMPLATE/, (later: CODEOWNERS, PR template)
+
+SEE: docs/decisions/ADR-0001-Structure.md

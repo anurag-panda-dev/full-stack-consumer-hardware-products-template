@@ -1,0 +1,7 @@
+PURPOSE:
+  System-shaping docs: full product architecture (mechanical + electrical + firmware + companion apps + device cloud), interfaces, power budget, data flows.
+
+SHOULD CONTAIN:
+  - system-architecture.md, block-diagrams/, interfaces.md, data-flow.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

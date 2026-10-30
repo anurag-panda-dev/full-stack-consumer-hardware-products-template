@@ -1,0 +1,7 @@
+PURPOSE:
+  Schematics, layouts, gerbers, KiCad/EasyEDA sources; DRC clean before release.
+
+SHOULD CONTAIN:
+  - schematics/, layout/, gerbers/, bom-ref (points to supply-chain/bom/)
+
+SEE: docs/decisions/ADR-0001-Structure.md

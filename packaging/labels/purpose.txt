@@ -1,0 +1,7 @@
+PURPOSE:
+  MRP labels, barcodes, regulatory marks placement, multilingual labels.
+
+SHOULD CONTAIN:
+  - labels/, barcode.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

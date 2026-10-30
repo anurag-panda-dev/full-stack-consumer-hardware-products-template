@@ -1,0 +1,7 @@
+PURPOSE:
+  Test-mode harness — simulate payments with zero real money.
+
+SHOULD CONTAIN:
+  - mock-gateway/, fixtures/
+
+SEE: docs/decisions/ADR-0001-Structure.md

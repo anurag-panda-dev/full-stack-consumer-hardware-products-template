@@ -1,0 +1,7 @@
+PURPOSE:
+  Shared UI primitives — accessible, themed, no business logic.
+
+SHOULD CONTAIN:
+  - Button/, Card/, Input/, index.ts
+
+SEE: docs/decisions/ADR-0001-Structure.md

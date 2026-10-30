@@ -1,0 +1,7 @@
+PURPOSE:
+  Tailwind preset derived from design tokens — the only way apps get brand styles.
+
+SHOULD CONTAIN:
+  - preset.js
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  Cross-lab findings log and go/no-go conclusions.
+
+SHOULD CONTAIN:
+  - findings.md, decisions-log.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

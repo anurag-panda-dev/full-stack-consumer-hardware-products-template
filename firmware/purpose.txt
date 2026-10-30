@@ -1,0 +1,7 @@
+PURPOSE:
+  Embedded software shared across product lines (line-specific config lives with the product).
+
+SHOULD CONTAIN:
+  - bootloader/, drivers/, application/, boards/, ota/
+
+SEE: docs/decisions/ADR-0001-Structure.md

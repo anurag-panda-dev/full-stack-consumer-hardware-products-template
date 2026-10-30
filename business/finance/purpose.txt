@@ -1,0 +1,7 @@
+PURPOSE:
+  Budget & procurement — non-sensitive only (equity/HR contracts belong in private company-ops).
+
+SHOULD CONTAIN:
+  - budget-proposals/, vendor-management/
+
+SEE: docs/decisions/ADR-0001-Structure.md

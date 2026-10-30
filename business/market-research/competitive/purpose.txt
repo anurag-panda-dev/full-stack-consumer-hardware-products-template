@@ -1,0 +1,7 @@
+PURPOSE:
+  Competitor teardowns: specs, price, BOM estimates, positioning.
+
+SHOULD CONTAIN:
+  - <competitor>.md, teardown-photos/
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  Background workers: telemetry rollups, notification batches, OTA job sweeps, retention enforcement.
+
+SHOULD CONTAIN:
+  - telemetry/, notifications/, ota/, schedules/
+
+SEE: docs/decisions/ADR-0001-Structure.md

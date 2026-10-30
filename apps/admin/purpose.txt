@@ -1,0 +1,7 @@
+PURPOSE:
+  Internal console: fleet view, OTA rollout control, support tools, content moderation.
+
+SHOULD CONTAIN:
+  - src/app/ (Next.js), rollout-console/, support-tools/
+
+SEE: docs/decisions/ADR-0001-Structure.md

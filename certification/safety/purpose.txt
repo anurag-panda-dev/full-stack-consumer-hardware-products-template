@@ -1,0 +1,7 @@
+PURPOSE:
+  IEC/IS safety standards evidence (battery safety, thermal, ingress).
+
+SHOULD CONTAIN:
+  - standards-matrix.md, reports/
+
+SEE: docs/decisions/ADR-0001-Structure.md

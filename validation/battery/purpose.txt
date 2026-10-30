@@ -1,0 +1,7 @@
+PURPOSE:
+  Battery: capacity, charge curves, protection behavior, abuse tests.
+
+SHOULD CONTAIN:
+  - plans/, reports/
+
+SEE: docs/decisions/ADR-0001-Structure.md

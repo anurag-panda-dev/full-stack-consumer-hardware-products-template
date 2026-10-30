@@ -1,0 +1,7 @@
+PURPOSE:
+  Factory test fixtures and procedures (FCT), fixture drawings, test point maps.
+
+SHOULD CONTAIN:
+  - fixtures/, fct-procedure.md, testpoints.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

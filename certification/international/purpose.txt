@@ -1,0 +1,7 @@
+PURPOSE:
+  Export: FCC, CE/RED, UKCA, RoHS/REACH by market.
+
+SHOULD CONTAIN:
+  - fcc/, ce/, ukca/, markets.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

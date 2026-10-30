@@ -1,0 +1,7 @@
+PURPOSE:
+  Offline-first: cache strategies + action queue (setup must survive flaky connectivity).
+
+SHOULD CONTAIN:
+  - strategies.ts, queue.ts, sync.ts
+
+SEE: docs/decisions/ADR-0001-Structure.md

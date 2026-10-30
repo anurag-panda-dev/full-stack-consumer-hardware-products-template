@@ -1,0 +1,7 @@
+PURPOSE:
+  Line yield tracking, failure Pareto, corrective actions.
+
+SHOULD CONTAIN:
+  - <month>-yield.md, pareto/, capa/
+
+SEE: docs/decisions/ADR-0001-Structure.md

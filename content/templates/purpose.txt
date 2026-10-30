@@ -1,0 +1,7 @@
+PURPOSE:
+  Templates per content type.
+
+SHOULD CONTAIN:
+  - guide.md, troubleshooting.md, announcement.md, faq.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

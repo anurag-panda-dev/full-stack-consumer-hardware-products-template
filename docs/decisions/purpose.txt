@@ -1,0 +1,7 @@
+PURPOSE:
+  LANDED ADRs (append-only amendments). TEMPLATE.md starts a new one; ADR-0001 records this structure.
+
+SHOULD CONTAIN:
+  - TEMPLATE.md, ADR-NNNN-Title.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

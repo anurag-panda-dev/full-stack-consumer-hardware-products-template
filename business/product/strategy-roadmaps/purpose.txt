@@ -1,0 +1,7 @@
+PURPOSE:
+  Yearly vision, quarterly roadmaps, portfolio sequencing across product lines.
+
+SHOULD CONTAIN:
+  - 20XX-product-vision.md, qN-roadmap.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

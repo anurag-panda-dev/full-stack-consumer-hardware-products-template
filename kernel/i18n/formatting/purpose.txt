@@ -1,0 +1,7 @@
+PURPOSE:
+  Locale-aware formatters: numbers, dates, units (temperature, battery), currency.
+
+SHOULD CONTAIN:
+  - number.ts, date.ts, units.ts
+
+SEE: docs/decisions/ADR-0001-Structure.md

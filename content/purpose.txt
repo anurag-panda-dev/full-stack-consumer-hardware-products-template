@@ -1,0 +1,7 @@
+PURPOSE:
+  Editorial engine for user-facing copy: support content, manuals copy, announcements. Physical inserts live in packaging/inserts (copy lives here).
+
+SHOULD CONTAIN:
+  - style-guide.md, templates/, workflow/, library/, locale/, seo/, moderation/
+
+SEE: docs/decisions/ADR-0001-Structure.md

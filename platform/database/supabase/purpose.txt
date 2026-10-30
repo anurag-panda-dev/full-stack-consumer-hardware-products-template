@@ -1,0 +1,7 @@
+PURPOSE:
+  Supabase SQL migrations, RLS policies, edge functions.
+
+SHOULD CONTAIN:
+  - migrations/, policies/, functions/
+
+SEE: docs/decisions/ADR-0001-Structure.md

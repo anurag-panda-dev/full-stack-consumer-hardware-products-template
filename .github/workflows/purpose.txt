@@ -1,0 +1,7 @@
+PURPOSE:
+  CI pipelines: KiCad DRC/ERC, firmware build + unit tests, BOM lint, app lint/typecheck/test/build, OTA release promotion, docs link check.
+
+SHOULD CONTAIN:
+  - ci.yml, firmware.yml, apps.yml, ota-release.yml, bom-check.yml
+
+SEE: docs/decisions/ADR-0001-Structure.md

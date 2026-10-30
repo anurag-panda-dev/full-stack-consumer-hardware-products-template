@@ -1,0 +1,7 @@
+PURPOSE:
+  Quality data: NCRs, yield, RMA/failure rates by revision and batch.
+
+SHOULD CONTAIN:
+  - rma/, yield/, pareto.json
+
+SEE: docs/decisions/ADR-0001-Structure.md

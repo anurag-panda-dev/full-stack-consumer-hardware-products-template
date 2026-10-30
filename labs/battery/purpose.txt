@@ -1,0 +1,7 @@
+PURPOSE:
+  Cell evaluation, pack topology, new chemistries — bench notes.
+
+SHOULD CONTAIN:
+  - cells/, packs/, bench-notes.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

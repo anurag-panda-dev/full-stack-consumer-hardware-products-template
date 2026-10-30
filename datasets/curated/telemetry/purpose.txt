@@ -1,0 +1,7 @@
+PURPOSE:
+  Aggregated fleet telemetry (hourly/daily rollups) for dashboards and research.
+
+SHOULD CONTAIN:
+  - hourly/, daily/, retention.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

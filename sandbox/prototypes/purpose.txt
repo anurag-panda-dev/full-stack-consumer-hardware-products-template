@@ -1,0 +1,7 @@
+PURPOSE:
+  Rapid prototypes: 3D prints, hackaday-style rigs, foil-wrapped bench models.
+
+SHOULD CONTAIN:
+  - <topic>-proto/
+
+SEE: docs/decisions/ADR-0001-Structure.md

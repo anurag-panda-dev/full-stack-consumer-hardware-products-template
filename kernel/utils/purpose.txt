@@ -1,0 +1,7 @@
+PURPOSE:
+  Framework-free helpers. Keep small — no grab-bag growth.
+
+SHOULD CONTAIN:
+  - *.ts, README.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

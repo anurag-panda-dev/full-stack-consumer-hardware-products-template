@@ -1,0 +1,7 @@
+PURPOSE:
+  Gateway-agnostic money layer (accessories, subscriptions, extended warranty). Apps never import gateways — they read kernel/entitlements.
+
+SHOULD CONTAIN:
+  - gateways/, webhooks/, ledger/, sandbox/
+
+SEE: docs/decisions/ADR-0001-Structure.md

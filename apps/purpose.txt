@@ -1,0 +1,7 @@
+PURPOSE:
+  Deployable companion apps — thin shells (routes, providers, wiring). Domain logic in crosscutting/ + platform contracts.
+
+SHOULD CONTAIN:
+  - web/, admin/, mobile/
+
+SEE: docs/decisions/ADR-0001-Structure.md

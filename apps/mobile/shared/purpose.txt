@@ -1,0 +1,7 @@
+PURPOSE:
+  Stack-agnostic mobile source of truth: screens, navigation, BLE provisioning UX specs, assets.
+
+SHOULD CONTAIN:
+  - screens.md, navigation.md, assets/
+
+SEE: docs/decisions/ADR-0001-Structure.md

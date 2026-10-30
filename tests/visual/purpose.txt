@@ -1,0 +1,7 @@
+PURPOSE:
+  Screenshot baselines guarding brand fidelity.
+
+SHOULD CONTAIN:
+  - *.visual.ts, __screenshots__/
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  EMC test plans, pre-scan logs, lab reports, remediation notes.
+
+SHOULD CONTAIN:
+  - plans/, reports/, pre-scan/
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  Publish gates: technical accuracy (eng sign-off), legal, locale, accessibility.
+
+SHOULD CONTAIN:
+  - technical-accuracy.md, legal.md, accessibility.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

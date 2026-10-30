@@ -1,0 +1,7 @@
+PURPOSE:
+  Root providers: session, i18n (kernel/i18n), data queries, offline, telemetry.
+
+SHOULD CONTAIN:
+  - Providers.tsx, session.tsx, query.tsx
+
+SEE: docs/decisions/ADR-0001-Structure.md

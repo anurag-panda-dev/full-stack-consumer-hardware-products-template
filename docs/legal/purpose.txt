@@ -1,0 +1,7 @@
+PURPOSE:
+  Code/engineering-adjacent legal notes (corporate docs live in a private company-ops repo).
+
+SHOULD CONTAIN:
+  - pointers, license notes
+
+SEE: docs/decisions/ADR-0001-Structure.md

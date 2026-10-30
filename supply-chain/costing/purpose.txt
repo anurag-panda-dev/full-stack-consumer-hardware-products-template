@@ -1,0 +1,7 @@
+PURPOSE:
+  Costed BOM per SKU, target vs actual, margin at various volumes.
+
+SHOULD CONTAIN:
+  - costed-bom-<sku>.md, targets.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

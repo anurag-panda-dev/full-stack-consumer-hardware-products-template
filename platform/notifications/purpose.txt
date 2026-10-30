@@ -1,0 +1,7 @@
+PURPOSE:
+  Multi-channel notifications: app push, email, SMS — Bangla/primary-locale templates, DND-aware.
+
+SHOULD CONTAIN:
+  - channels/, templates/, preferences/
+
+SEE: docs/decisions/ADR-0001-Structure.md

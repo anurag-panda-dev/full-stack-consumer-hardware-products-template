@@ -1,0 +1,7 @@
+PURPOSE:
+  AI/agent context companion to AGENTS.md — machine-readable conventions.
+
+SHOULD CONTAIN:
+  - conventions.md, maps/
+
+SEE: docs/decisions/ADR-0001-Structure.md

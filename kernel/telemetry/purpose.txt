@@ -1,0 +1,7 @@
+PURPOSE:
+  Privacy-first analytics + error tracking glue. No PII beyond account id; scrub before send.
+
+SHOULD CONTAIN:
+  - analytics.ts, sentry.ts, scrub.ts
+
+SEE: docs/decisions/ADR-0001-Structure.md

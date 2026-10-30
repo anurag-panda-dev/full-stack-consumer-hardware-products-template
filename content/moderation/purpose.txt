@@ -1,0 +1,7 @@
+PURPOSE:
+  Support-forum / review moderation policy + queue configs.
+
+SHOULD CONTAIN:
+  - policy.md, queues/, rules.ts
+
+SEE: docs/decisions/ADR-0001-Structure.md

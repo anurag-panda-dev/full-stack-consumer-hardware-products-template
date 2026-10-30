@@ -1,0 +1,7 @@
+PURPOSE:
+  Org chart, engineering discipline leads, headcount phases.
+
+SHOULD CONTAIN:
+  - org-chart.md, roles/, phases.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

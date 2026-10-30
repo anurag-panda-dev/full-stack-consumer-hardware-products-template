@@ -1,0 +1,7 @@
+PURPOSE:
+  From design to factory floor: DFM, assembly, test jigs, quality, yields.
+
+SHOULD CONTAIN:
+  - dfm/, assembly/, test-jigs/, quality/, yields/
+
+SEE: docs/decisions/ADR-0001-Structure.md

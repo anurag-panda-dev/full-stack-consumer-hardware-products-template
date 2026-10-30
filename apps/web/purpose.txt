@@ -1,0 +1,7 @@
+PURPOSE:
+  Companion web app (device setup help, account, content, support).
+
+SHOULD CONTAIN:
+  - src/app/, src/providers/, next.config.ts
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  Shared product-layer software used by every companion app (peer of apps/, imports kernel/ only).
+
+SHOULD CONTAIN:
+  - device-sdk/
+
+SEE: docs/decisions/ADR-0001-Structure.md

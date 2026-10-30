@@ -1,0 +1,7 @@
+PURPOSE:
+  Dashboards + alerts: fleet health, OTA success rate, API latency, telemetry lag.
+
+SHOULD CONTAIN:
+  - dashboards/, alerts/, slo.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

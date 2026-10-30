@@ -1,0 +1,7 @@
+PURPOSE:
+  Regulatory submissions and evidence. India-first (BIS/WPC/TEC), then export markets.
+
+SHOULD CONTAIN:
+  - india/, international/, emc/, safety/, environment/
+
+SEE: docs/decisions/ADR-0001-Structure.md

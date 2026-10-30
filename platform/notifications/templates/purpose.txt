@@ -1,0 +1,7 @@
+PURPOSE:
+  Message templates per locale: firmware ready, warranty expiring, order shipped.
+
+SHOULD CONTAIN:
+  - <locale>/, registry.ts
+
+SEE: docs/decisions/ADR-0001-Structure.md

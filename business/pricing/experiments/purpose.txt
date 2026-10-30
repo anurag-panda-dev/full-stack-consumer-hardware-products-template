@@ -1,0 +1,7 @@
+PURPOSE:
+  Price tests: hypothesis, cohort, result, decision.
+
+SHOULD CONTAIN:
+  - <name>/{hypothesis.md, results.md}
+
+SEE: docs/decisions/ADR-0001-Structure.md

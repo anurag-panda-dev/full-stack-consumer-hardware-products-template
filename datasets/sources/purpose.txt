@@ -1,0 +1,7 @@
+PURPOSE:
+  One folder per data origin: method, limits, trust level, last successful pull.
+
+SHOULD CONTAIN:
+  - <source>/README.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

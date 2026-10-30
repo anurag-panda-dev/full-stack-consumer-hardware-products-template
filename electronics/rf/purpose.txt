@@ -1,0 +1,7 @@
+PURPOSE:
+  Antenna design, matching, BLE/Wi-Fi/cellular layout notes and certification-critical RF constraints.
+
+SHOULD CONTAIN:
+  - antenna/, matching/, rf-notes.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

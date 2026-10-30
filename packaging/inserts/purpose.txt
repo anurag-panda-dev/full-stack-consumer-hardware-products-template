@@ -1,0 +1,7 @@
+PURPOSE:
+  Manuals, warranty cards, quick-start (content/ holds the written copy).
+
+SHOULD CONTAIN:
+  - manual/, quick-start/, warranty/
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  Electrical engineering: PCB, power, RF, bring-up boards.
+
+SHOULD CONTAIN:
+  - pcb/, power/, rf/, devboards/
+
+SEE: docs/decisions/ADR-0001-Structure.md

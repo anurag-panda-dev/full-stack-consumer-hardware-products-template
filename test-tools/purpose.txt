@@ -1,0 +1,7 @@
+PURPOSE:
+  Factory & lab test software: jig firmware, flashing fixtures, calibration, automation scripts.
+
+SHOULD CONTAIN:
+  - jig-firmware/, flash-tools/, calibration/, scripts/
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  Pricing & packaging strategy: SKU pricing, bundles, accessory attach.
+
+SHOULD CONTAIN:
+  - strategy.md, tiers/, experiments/
+
+SEE: docs/decisions/ADR-0001-Structure.md

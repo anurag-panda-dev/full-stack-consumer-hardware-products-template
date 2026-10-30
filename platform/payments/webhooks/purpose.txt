@@ -1,0 +1,7 @@
+PURPOSE:
+  Signature verification, replay protection, retries, idempotency.
+
+SHOULD CONTAIN:
+  - handlers/, signature.ts, idempotency.ts
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  Shared tsconfig bases + path aliases (@kernel, @crosscutting, @platform-types).
+
+SHOULD CONTAIN:
+  - base.json, react.json, node.json
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  Access rules: what an account gets (warranty, subscription features, cloud tiers).
+
+SHOULD CONTAIN:
+  - rules/ — declarative rules fed by business/pricing/tiers
+
+SEE: docs/decisions/ADR-0001-Structure.md

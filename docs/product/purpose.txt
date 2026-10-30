@@ -1,0 +1,7 @@
+PURPOSE:
+  Per product-line specs and deep dives (pointers from products/<line>/product.md land here).
+
+SHOULD CONTAIN:
+  - <line>-spec.md, requirements-baseline.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

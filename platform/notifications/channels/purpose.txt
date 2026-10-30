@@ -1,0 +1,7 @@
+PURPOSE:
+  Adapters: push, email, SMS (MSG91/Twilio).
+
+SHOULD CONTAIN:
+  - push/, email/, sms/, adapter-interface.ts
+
+SEE: docs/decisions/ADR-0001-Structure.md

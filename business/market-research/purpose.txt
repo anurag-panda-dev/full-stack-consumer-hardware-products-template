@@ -1,0 +1,7 @@
+PURPOSE:
+  Evidence base: competitors, users, industry sizing.
+
+SHOULD CONTAIN:
+  - competitive/, users/, industry/, data/
+
+SEE: docs/decisions/ADR-0001-Structure.md

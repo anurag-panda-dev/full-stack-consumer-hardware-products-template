@@ -1,0 +1,7 @@
+PURPOSE:
+  Device interaction layer embedded in all apps: BLE provisioning, local sync, protocol client generated from kernel/contracts.
+
+SHOULD CONTAIN:
+  - provisioning/, protocol/, sync/, index.ts
+
+SEE: docs/decisions/ADR-0001-Structure.md

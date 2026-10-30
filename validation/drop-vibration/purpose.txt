@@ -1,0 +1,7 @@
+PURPOSE:
+  Drop, tumble, vibration per ISTA/IEC-style profiles; transport packaging validation.
+
+SHOULD CONTAIN:
+  - profiles/, reports/
+
+SEE: docs/decisions/ADR-0001-Structure.md

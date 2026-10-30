@@ -1,0 +1,7 @@
+PURPOSE:
+  Pipeline: research -> write -> review -> publish -> monitor, with gates.
+
+SHOULD CONTAIN:
+  - stages.md, checklists/
+
+SEE: docs/decisions/ADR-0001-Structure.md

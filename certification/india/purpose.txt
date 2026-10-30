@@ -1,0 +1,7 @@
+PURPOSE:
+  India marks: BIS (CRS), WPC/ETA (RF), TEC (telecom), EPR (e-waste) — test reports + applications.
+
+SHOULD CONTAIN:
+  - bis/, wpc/, tec/, epr/
+
+SEE: docs/decisions/ADR-0001-Structure.md

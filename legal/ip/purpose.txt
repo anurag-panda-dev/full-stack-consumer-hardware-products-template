@@ -1,0 +1,7 @@
+PURPOSE:
+  Design/trademark usage for THIS repo's assets: design-patent disclosures, trademark usage of product names.
+
+SHOULD CONTAIN:
+  - trademark-usage.md, design-disclosures.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

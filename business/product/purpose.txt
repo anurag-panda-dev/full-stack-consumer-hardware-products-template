@@ -1,0 +1,7 @@
+PURPOSE:
+  Product strategy & lifecycle: vision, roadmaps, launch playbooks.
+
+SHOULD CONTAIN:
+  - strategy-roadmaps/, launch-playbooks/
+
+SEE: docs/decisions/ADR-0001-Structure.md

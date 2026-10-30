@@ -1,0 +1,7 @@
+PURPOSE:
+  Cleaned, schema-validated datasets — canonical truth for fleet, releases, quality, telemetry.
+
+SHOULD CONTAIN:
+  - devices/, firmware-releases/, quality/, telemetry/
+
+SEE: docs/decisions/ADR-0001-Structure.md

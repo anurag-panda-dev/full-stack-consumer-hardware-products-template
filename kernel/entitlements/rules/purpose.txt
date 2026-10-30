@@ -1,0 +1,7 @@
+PURPOSE:
+  Entitlement definitions keyed by account tier + device line.
+
+SHOULD CONTAIN:
+  - *.rule.ts, tiers.ts
+
+SEE: docs/decisions/ADR-0001-Structure.md

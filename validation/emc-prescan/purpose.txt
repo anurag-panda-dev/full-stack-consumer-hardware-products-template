@@ -1,0 +1,7 @@
+PURPOSE:
+  In-house EMC pre-scan before the accredited lab (saves money and cycles).
+
+SHOULD CONTAIN:
+  - setup/, logs/
+
+SEE: docs/decisions/ADR-0001-Structure.md

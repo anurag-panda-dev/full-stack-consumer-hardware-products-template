@@ -1,0 +1,7 @@
+PURPOSE:
+  Brand & growth: calendars, campaigns, PR.
+
+SHOULD CONTAIN:
+  - content-strategy/, campaigns/, public-relations/
+
+SEE: docs/decisions/ADR-0001-Structure.md

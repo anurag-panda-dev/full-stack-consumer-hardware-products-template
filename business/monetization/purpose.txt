@@ -1,0 +1,7 @@
+PURPOSE:
+  Revenue streams: hardware margin, accessories, subscriptions, extended warranty.
+
+SHOULD CONTAIN:
+  - models.md, accessories.md, warranty.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

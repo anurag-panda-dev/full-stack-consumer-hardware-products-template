@@ -1,0 +1,7 @@
+PURPOSE:
+  API integration tests: auth, device claims, OTA job lifecycle, idempotent webhooks.
+
+SHOULD CONTAIN:
+  - *.test.ts (or test_*.py)
+
+SEE: docs/decisions/ADR-0001-Structure.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  Thermal maps under load/charge, worst-case ambient runs.
+
+SHOULD CONTAIN:
+  - plans/, reports/, thermal-map.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

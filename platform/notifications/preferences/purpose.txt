@@ -1,0 +1,7 @@
+PURPOSE:
+  Per-user opt-in/out, quiet hours, compliance records.
+
+SHOULD CONTAIN:
+  - preferences.ts, compliance.ts
+
+SEE: docs/decisions/ADR-0001-Structure.md
