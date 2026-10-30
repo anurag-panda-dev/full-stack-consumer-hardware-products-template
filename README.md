@@ -1,8 +1,34 @@
-# Full-Stack Consumer Hardware Products Template
+> **Part of a template family** — use alongside
+> [`big-software-product-template`](https://github.com/anurag-panda-dev/big-software-product-template) (software only) and
+> [`consumer-hardware-products-template`](https://github.com/anurag-panda-dev/consumer-hardware-products-template) (hardware only).
+
+<h1 align="center">Full-Stack Consumer Hardware Products Template</h1>
+
+<p align="center"><b>Every folder explains itself — to humans and to AI agents.</b><br>
+193 <code>purpose.txt</code> maps · one repo, two worlds · the seam is <code>kernel/contracts</code></p>
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT License" /></a>
+  <a href="https://github.com/anurag-panda-dev/full-stack-consumer-hardware-products-template/generate"><img src="https://img.shields.io/badge/Use%20this%20template-grey?style=flat-square&logo=github&logoColor=white" alt="Use this template" /></a>
+  <a href="https://github.com/anurag-panda-dev/full-stack-consumer-hardware-products-template"><img src="https://img.shields.io/github/repo-size/anurag-panda-dev/full-stack-consumer-hardware-products-template?style=flat-square" alt="Repo size" /></a>
+</p>
+
+```text
+HARDWARE   products/ mechanical/ electronics/ firmware/ certification/
+           manufacturing/ supply-chain/ validation/ packaging/ test-tools/
+                        │
+       ┌────────────────┴────────────────┐
+       │   kernel/contracts  ← THE SEAM  │   firmware message schemas
+       └────────────────┬────────────────┘   + OTA manifest derive from here
+                        │
+SOFTWARE   apps/ crosscutting/device-sdk/ kernel/ platform/{api,ota,telemetry}
+           tests/ datasets/ content/
+SHARED     docs/ rfcs/ business/ legal/ labs/ sandbox/ infra/ tooling/
+```
 
 A monorepo template for **connected-hardware products**: industrial design, electronics, and firmware **plus** companion apps and the device cloud — one repo, two worlds, explicit boundaries.
 
-Structure rationale: `docs/decisions/ADR-0001-Structure.md`. Sibling templates: `consumer-hardware-products-template` (hardware only) and `big-software-product-template` (software only).
+Structure rationale: `docs/decisions/ADR-0001-Structure.md`.
 
 ## Rules of thumb
 
