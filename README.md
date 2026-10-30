@@ -68,7 +68,7 @@ docs/  rfcs/  business/  legal/  labs/  sandbox/  infra/  tooling/  security/  .
 
 ## Using this template
 
-1. **Use this template** on GitHub (or `gh repo create my-project --template <owner>/full-stack-consumer-hardware-products-template`)
+1. **Use this template** on GitHub (or `gh repo create my-project --template anurag-panda-dev/full-stack-consumer-hardware-products-template`)
 2. **Rename** — update root `README.md`, `purpose.txt`, `AGENTS.md`
 3. **Replace `products/example-device/`** with your real product line
 4. **Fill the software workspace** — `package.json`, `pnpm-workspace.yaml`, `turbo.json`, `tsconfig.base.json` (listed in root `purpose.txt`; deliberately not shipped so the template stays stack-flexible — same for `platform/api` Express ⇄ FastAPI and `apps/mobile` RN ⇄ Flutter)
